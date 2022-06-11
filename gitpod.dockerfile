@@ -1,0 +1,2 @@
+FROM archlinux
+USER root
